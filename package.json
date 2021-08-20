@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/lexmin0412/youtils-logx.git"
   },
-  "keywords": [],
+  "keywords": ["log", "chalk", "utils"],
   "author": "lexmin0412 <zhangle_media@hotmail.com>",
   "license": "ISC",
   "bugs": {
