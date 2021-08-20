@@ -1,6 +1,6 @@
 {
   "name": "@youtils/logx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "基于chalk的命令行log风格统一工具",
   "main": "dist/bundle.js",
   "module": "src/index.ts",
